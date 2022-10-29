@@ -1,4 +1,4 @@
-### Olá, Eu sou o Diogo 👋
+### Olá, Eu sou o Diogo!!
 <div align="center">
   <a href="https://github.com/quintaodiogo">
   <img height="160em" align="left" src="https://github-readme-stats.vercel.app/api?username=quintaodiogo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
