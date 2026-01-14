@@ -1,14 +1,34 @@
-## Oi eu sou o Diogo, estudante de engenharia de computação!
+# 👋 Diogo Quintão
 
-![Diogo's GitHub stats](https://github-readme-stats.vercel.app/api?username=quintaodiogo&show_icons=true&theme=dark&rank_icon=github&count-private=true)
+🎓 Engenharia de Computação  
+🧪 Quality Assurance | Testes e qualidade de software  
 
-## Tecnologias que uso no meu dia
+---
+
+## 🧪 QA (o que eu faço)
+- Casos de teste
+- Testes funcionais e exploratórios
+- Escrita de cenários (BDD / Gherkin)
+- Validação de regras de negócio
+- Report de bugs claro e objetivo
+- Documentação
+
+---
+
+## 🛠️ Ferramentas / Conceitos
+- Testes manuais
+- Noções de automação de testes
+- Git / versionamento
+- CI (contato e estudo)
+- Qualidade de código
+
+---
+
+## 💻 Stack
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
